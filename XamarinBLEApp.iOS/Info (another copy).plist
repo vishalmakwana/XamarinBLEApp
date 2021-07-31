@@ -31,7 +31,7 @@
 	<key>CFBundleName</key>
 	<string>XamarinBLEApp</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.psoftcs.XamarinBLEApp</string>
+	<string>com.psoftcs.appname</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
 	<key>CFBundleShortVersionString</key>
