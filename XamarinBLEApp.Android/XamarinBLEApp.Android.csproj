@@ -122,7 +122,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\XamarinBLEApp\XamarinBLEApp.csproj">
-      <Project>{A682884C-CB44-4A89-B752-27BB634E0ABE}</Project>
+      <Project>{C98F46DF-EA8A-4404-B835-69430BFCFDD7}</Project>
       <Name>XamarinBLEApp</Name>
     </ProjectReference>
   </ItemGroup>
